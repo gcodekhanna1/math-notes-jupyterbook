@@ -4,6 +4,14 @@ author: Gaurav Khanna, Ph.D.
 date: 2025-12-06
 ---
 
+```{figure} j_fourier_1.jpg
+:name: fig-joseph-fourier-portrait
+:width: 50%
+:align: center
+
+A portrait of Jean-Baptiste Joseph Fourier (1768-1830) who did this clever proof.
+```
+
 # Setting up the proof
 
 We will show that $e$ is an irrational number using proof by contradiction. That is, we will assume that it is a rational number and show that this assumption creates a consequence that is contradictory to our assumption.
