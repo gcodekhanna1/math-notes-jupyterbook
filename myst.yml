@@ -5,6 +5,9 @@ project:
   title: Math Notes
   toc:
     - file: index.md
+    - title: Calculus
+      children:
+        - file: u_substitution_1.md
     - title: Famous Numbers
       children:
         - file: e_irrational_fourier_proof.md
