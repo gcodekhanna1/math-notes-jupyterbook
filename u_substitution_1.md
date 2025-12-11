@@ -4,11 +4,9 @@ author: Gaurav Khanna, Ph.D.
 date: 2025-12-08
 ---
 
-# Using u-Substitution to Solve Integrals
-
 Let's discuss solving calculus integrals using $u$-substitution. It's a process we can readily handle because it boils down to recognizing a pattern in an integral and applying defined rules. Here's the breakdown of our thinking when tackling these problems.
 
-## Identifying the Candidate for u
+## Identifying the Candidate for $u$
 
 The core idea behind $u$-substitution is to simplify an integral by transforming it into a form we can easily integrate. We look for a function within the integrand and its derivative (or a constant multiple of its derivative).
 
@@ -29,7 +27,7 @@ The core idea behind $u$-substitution is to simplify an integral by transforming
 
 - **Substitute into the Integral:** This is where we replace parts of the original integral with $u$ and $du$. The goal is to rewrite the entire integral *entirely* in terms of $u$. This often involves simplifying the expression.
 
-## Integration with Respect to u
+## Integration with Respect to $u$
 
 - **Simplify and Integrate:** Now we have a new integral that (hopefully) is much simpler to solve. We apply standard integration rules to integrate with respect to $u$. This might involve using the power rule, trigonometric integrals, logarithmic integrals, etc.
 
